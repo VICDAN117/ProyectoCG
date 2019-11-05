@@ -1,0 +1,82 @@
+newmtl cbc001:cbc001_metall__V
+illum 4
+Kd 0.26 0.18 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 2048.00
+newmtl cbc001:cbc001_wood1__Vr
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CBC00101.jpg
+bump CBC00104.jpg -bm 0
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 8.00
+newmtl cbc001:cbc001_wood2__Vr
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.01 0.01 0.01
+Tf 1.00 1.00 1.00
+map_Kd pared-madera-oscura_1194-7058.jpg
+bump CBC00103.jpg -bm 0
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 8.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl treasure_box:aiStandardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl treasure_box:aiStandardSurface7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl treasure_box:aiStandardSurface17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl treasure_box:initialShadingGroup
+illum 4
+Kd 0.04 0.04 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl treasure_box1:aiStandardSurface3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl treasure_box1:aiStandardSurface7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl treasure_box1:aiStandardSurface17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl treasure_box1:initialShadingGroup
+illum 4
+Kd 0.04 0.04 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

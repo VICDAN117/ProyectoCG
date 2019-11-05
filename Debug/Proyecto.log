@@ -1,0 +1,13 @@
+﻿  Proyecto.cpp
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(490): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1160): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1167): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1173): warning C4305: '+=': truncamiento de 'double' a 'float'
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1179): warning C4305: '-=': truncamiento de 'double' a 'float'
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1521): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1522): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1526): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1527): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1529): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\victor\source\repos\proyecto\proyecto\proyecto.cpp(1530): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Proyecto.vcxproj -> C:\Users\Victor\source\repos\Proyecto\Debug\Proyecto.exe
