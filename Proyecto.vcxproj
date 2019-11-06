@@ -139,7 +139,7 @@
     <ClInclude Include="Texture.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Proyecto.cpp" />
+    <ClCompile Include="MartinezMoralesVictorDaniel_PROYECTO_GPO3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
